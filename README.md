@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Prasad-JB/Prasad-JB/raw/main/i.jpg" alt="Prasad Photo" width="180" style="border-radius:50%; border:5px solid #00FF00; float:left; margin-right:20px;"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&width=500&lines=Hi,+I'm+Prasad+J+B;Open+Source+Contributor;Web+&+Flutter+Developer;GSoC+2026+Aspirant" alt="Typing Intro"/>
 </p>
-<br clear="both"/>
 
 ---
 
