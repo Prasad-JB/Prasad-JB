@@ -27,8 +27,8 @@
 
 ## 🚀 Projects
 ### Web
-- <img src="https://img.shields.io/badge/Web-Portfolio-blue?style=for-the-badge"/> **[Portfolio Website](https://github.com/Prasad-JB/portfolio)** – Personal website built with Next.js & Tailwind  
-- <img src="https://img.shields.io/badge/Web-SupabaseDocs-green?style=for-the-badge"/> **[Supabase Docs Fix](https://github.com/Prasad-JB/supabase-docs-fix)** – Improved Next.js documentation  
+- <img src="https://img.shields.io/badge/Web-Portfolio-blue?style=for-the-badge"/> **(https://github.com/Prasad-JB/portfolio)** – Personal website built with Next.js & Tailwind  
+- <img src="https://img.shields.io/badge/Web-SupabaseDocs-green?style=for-the-badge"/> (https://github.com/Prasad-JB/supabase-docs-fix)** – Improved Next.js documentation  
 
 ### Mobile Apps
 - <img src="https://img.shields.io/badge/Mobile-ExpenseTracker-orange?style=for-the-badge"/> **[Flutter Expense Tracker](https://github.com/Prasad-JB/flutter-expense-tracker)** – Track personal expenses  
