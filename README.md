@@ -27,16 +27,16 @@
 
 ## 🚀 Projects
 ### Web
-- <img src="https://img.shields.io/badge/Web-Portfolio-blue?style=for-the-badge"/> **(https://github.com/Prasad-JB/portfolio)** – Personal website built with Next.js & Tailwind  
-- <img src="https://img.shields.io/badge/Web-SupabaseDocs-green?style=for-the-badge"/> (https://github.com/Prasad-JB/supabase-docs-fix)** – Improved Next.js documentation  
+- <img src="https://img.shields.io/badge/Web-Portfolio-blue?style=for-the-badge"/> – Personal website built with Next.js & Tailwind  
+- <img src="https://img.shields.io/badge/Web-SupabaseDocs-green?style=for-the-badge"/> – Improved Next.js documentation  
 
 ### Mobile Apps
-- <img src="https://img.shields.io/badge/Mobile-ExpenseTracker-orange?style=for-the-badge"/> **[Flutter Expense Tracker](https://github.com/Prasad-JB/flutter-expense-tracker)** – Track personal expenses  
-- <img src="https://img.shields.io/badge/Mobile-NotesApp-purple?style=for-the-badge"/> **[Flutter Notes App](https://github.com/Prasad-JB/flutter-notes-app)** – Simple note-taking application  
+- <img src="https://img.shields.io/badge/Mobile-ExpenseTracker-orange?style=for-the-badge"/> – Track personal expenses  
+- <img src="https://img.shields.io/badge/Mobile-NotesApp-purple?style=for-the-badge"/> – Simple note-taking application  
 
 ### Open Source
-- <img src="https://img.shields.io/badge/OpenSource-OWASP-red?style=for-the-badge"/> **[OWASP CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries/pull/3240)** – Security definitions cheat sheet  
-- <img src="https://img.shields.io/badge/OpenSource-Supabase-yellow?style=for-the-badge"/> **[Supabase Docs](https://github.com/supabase/supabase/pull/82218)** – Fixed Next.js example  
+- <img src="https://img.shields.io/badge/OpenSource-OWASP-red?style=for-the-badge"/> – Security definitions cheat sheet  
+- <img src="https://img.shields.io/badge/OpenSource-Supabase-yellow?style=for-the-badge"/> – Fixed Next.js example  
 
 ---
 
