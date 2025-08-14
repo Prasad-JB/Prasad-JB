@@ -1,14 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Prasad-JB/Prasad-JB/blob/main/profile-photo.jpg" alt="Prasad Photo" width="150" style="border-radius:50%;"/>
+  <img src="https://github.com/Prasad-JB/Prasad-JB/blob/main/i.jpg" alt="Prasad Photo" width="180" style="border-radius:50%; margin-right:20px; float:left;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&width=500&lines=Hi,+I'm+Prasad+J+B;Open+Source+Contributor;Web+&+Flutter+Developer;GSoC+2026+Aspirant" alt="Typing Intro"/>
 </p>
 
-<h1 align="center">
-  Hi 👋, I'm <b>Prasad J B</b>
-</h1>
-
-<p align="center">
-  <i><b>B.Tech IT @ IIIT Lucknow | Open Source Contributor | GSoC 2026 Aspirant</b></i>
-</p>
+<br clear="both"/>
 
 ---
 
@@ -67,11 +62,3 @@
   <a href="mailto:prasadjb24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> &nbsp;
   <a href="tel:+918050300545"><img src="https://img.shields.io/badge/Phone-8050300545-green?style=flat&logo=phone"/></a>
 </p>
-
----
-
-## ✨ Animated Intro Example
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&width=500&lines=Hi,+I'm+Prasad+J+B;Open+Source+Contributor;Web+&+Flutter+Developer;GSoC+2026+Aspirant" />
-</p>
-
