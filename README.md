@@ -4,16 +4,16 @@
 
 ---
 
-## 🌱 About Me
-- 🎓 B.Tech in Information Technology (2024–2028) at IIIT Lucknow  
-- 💡 Passionate about **Web Development, Flutter, Open Source, and Competitive Programming**  
-- 🌱 Currently improving **DSA**, building **full-stack projects**, and contributing to **GSoC organizations**  
-- 🎯 Goal: Contribute significantly to open-source and get selected for **Google Summer of Code 2026**  
-- ⚡ Fun Fact: Code runs better at night 🌙  
+##  About Me
+-  B.Tech in Information Technology (2024–2028) at IIIT Lucknow  
+-  Passionate about **Web Development, Flutter, Open Source, and Competitive Programming**  
+-  Currently improving **DSA**, building **full-stack projects**, and contributing to **GSoC organizations**  
+-  Goal: Contribute significantly to open-source and get selected for **Google Summer of Code 2026**  
+-  Fun Fact: Code runs better at night 🌙.  
 
 ---
 
-## 💻 Skills
+##  Skills
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 ### Web
 - **[Portfolio Website](https://github.com/Prasad-JB/portfolio)** – Personal website built with Next.js & Tailwind  
 - **[Supabase Docs Fix](https://github.com/Prasad-JB/supabase-docs-fix)** – Improved Next.js documentation  
@@ -40,14 +40,14 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 - Selected contributor for **OWASP CheatSheetSeries**  
 - Active **Codeforces problem solver**  
 - GSoC 2026 aspirant with open-source contributions  
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prasad-JB&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasad-JB&theme=tokyonight&hide_border=true" height="150"/>
@@ -55,7 +55,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/prasad-jb-a67416339"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
   <a href="https://github.com/Prasad-JB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp;
