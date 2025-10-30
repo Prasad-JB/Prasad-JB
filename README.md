@@ -7,9 +7,7 @@
 ##  About Me
 -  B.Tech in Information Technology (2024–2028) at IIIT Lucknow  
 -  Passionate about **Web Development, Flutter, Open Source, and Competitive Programming**  
--  Currently improving **DSA**, building **full-stack projects**, and contributing to **GSoC organizations**  
--  Goal: Contribute significantly to open-source and get selected for **Google Summer of Code 2026**  
--  Fun Fact: Code runs better at night 🌙.  
+-  Currently improving **DSA**, building **full-stack projects**, and contributing to **GSoC organizations**    
 
 ---
 
@@ -41,9 +39,7 @@
 ---
 
 ##  Achievements
-- Selected contributor for **OWASP CheatSheetSeries**  
 - Active **Codeforces problem solver**  
-- GSoC 2026 aspirant with open-source contributions  
 
 ---
 
